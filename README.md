@@ -1,1 +1,1 @@
-One day webscrapping project based on beautiful Soap
+One day webscrapping project using beautiful Soap
